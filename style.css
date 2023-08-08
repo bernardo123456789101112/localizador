@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.titulo{
+    margin-top: 20px;
+    width: 100%;
+    font-size:20px;
+    color: purple;
+}
+.botao{
+    width: 50%;
+    font-size:30px;
+}
+.roda{
+    position:fixed;
+    font-size:15px;
+    color: firebrick;
+    bottom: 20px;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+}
+canvas{
+    border-color:black ;
+    border-width:90px ;
+    border-radius: 20px;
+    box-shadow: 5px, 5px, 5px, 5px, blue;
+}
